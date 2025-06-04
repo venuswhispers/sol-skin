@@ -1,6 +1,12 @@
 {
-  "name": "SOL-SKIN",
-  "symbol": "SKIN",
-  "description": "Only possible on solana",
-  "image": ""
+    "name": "SOL-SKIN",
+    "symbol": "SKIN",
+    "description": "This is solscan token on solana",
+    "image": "https://raw.githubusercontent.com/venuswhispers/sol-skin/refs/heads/main/logo.png",
+    "attributes": [
+        {
+            "trait_type": "Item",
+            "vlaue": "Developer Portal"
+        }
+    ]
 }
